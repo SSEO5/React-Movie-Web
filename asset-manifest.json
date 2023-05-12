@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https://github.com/SSEO5/React-Movie-Web/static/css/main.a10dd3c0.css",
-    "main.js": "/https://github.com/SSEO5/React-Movie-Web/static/js/main.f65546d3.js",
-    "index.html": "/https://github.com/SSEO5/React-Movie-Web/index.html",
-    "main.a10dd3c0.css.map": "/https://github.com/SSEO5/React-Movie-Web/static/css/main.a10dd3c0.css.map",
-    "main.f65546d3.js.map": "/https://github.com/SSEO5/React-Movie-Web/static/js/main.f65546d3.js.map"
+    "main.css": "/React-Movie-Web/static/css/main.a10dd3c0.css",
+    "main.js": "/React-Movie-Web/static/js/main.f65546d3.js",
+    "index.html": "/React-Movie-Web/index.html",
+    "main.a10dd3c0.css.map": "/React-Movie-Web/static/css/main.a10dd3c0.css.map",
+    "main.f65546d3.js.map": "/React-Movie-Web/static/js/main.f65546d3.js.map"
   },
   "entrypoints": [
     "static/css/main.a10dd3c0.css",
